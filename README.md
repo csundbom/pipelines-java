@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-casun/Most%20Excellent/_apis/build/status/csundbom.pipelines-java?branchName=master)](https://dev.azure.com/v-casun/Most%20Excellent/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
